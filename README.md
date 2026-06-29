@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 😺
 # 💫 About Me:
 <br>- 🎓 B.Tech in Mechanical Engineering @ IIT (BHU) Varanasi<br>- 💻 Interested in Software Development, DSA & Competitive Programming<br>- 🌱 Currently learning Full-Stack Development and Computer Science fundamentals<br>- 🚀 Love building projects and solving challenging problems<br>- 📫 Always open to collaborating on interesting projects
 
